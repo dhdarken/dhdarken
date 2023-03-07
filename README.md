@@ -15,12 +15,18 @@ I consider myself a person with very good values ​​such as respect, honesty,
 <li>Music
 
 # Comandos Que Mas Uso
-| comando |descripcion  |
+| comando |descripcion                |
 |-|--|
-| cd| cambiar de directorio |
-|add .|agregar todos los cambios|
-| ls | listar directorio |			
-| clear | limpiar la consola |
-|alias|listar los alias|
+| cd      | cambiar de directorio     |
+|add .    |agregar todos los cambios  |
+| ls      | listar directorio         |			
+| clear   | limpiar la consola        |
+|alias    |listar los alias           |
 
 
+# Estos Son Mis Alias
+| alias             |descripcion                                                  |
+|-|--|  
+|imagenes           |alias imagenes=”cd /home/sapoclay/Imágenes/”                 |
+| actualizarsistema |alias actualizarsistema=”sudo apt update && sudo apt upgrade”|
+| htdocs            |alias htdocs=”cd /opt/lampp/htdocs”                          |
