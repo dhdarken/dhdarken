@@ -15,33 +15,9 @@ I consider myself a person with very good values ​​such as respect, honesty,
 <li>Music
 
 # Comandos Que Mas Uso
-<table>
-        
-        <tr>
-            <td>comando</td>
-            <td>descripcion</td>
-        </tr>
-        <tr>
-            <td>cd</td>
-            <td>change directory</td>
-        </tr>
-        <tr>
-            <td>ls</td>
-            <td>listar donde estoy</td>
-        </tr>
-        <tr>
-            <td>add .</td>
-            <td>agregar todos los cambios</td>
-        </tr>
-        <tr>
-            <td>clear</td>
-            <td>limpiar la consola</td>
-        </tr>
-        <tr>
-            <td>alias</td>
-            <td>resumen de algun comando que use mucho</td>
-        </tr>
-        
-        
-        
-    </table>
+|comando	|descripcion|
+|cd	|change directory|
+|ls	|listar donde estoy|
+|add .	|agregar todos los cambios|
+|clear	|limpiar la consola|
+|alias	|resumen de algun comando que use mucho|
