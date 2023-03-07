@@ -21,6 +21,6 @@ I consider myself a person with very good values ​​such as respect, honesty,
 |add .|agregar todos los cambios|
 | ls | listar directorio |			
 | clear | limpiar la consola |
-|alias|resumen de algun comando que use mucho|
+|alias|listar los alias|
 
 
