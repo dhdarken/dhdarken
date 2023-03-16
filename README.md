@@ -8,11 +8,11 @@ I consider myself a person with very good values ​​such as respect, honesty,
 # Hobbies
 
 
-*Play Soccer
-*Program
-*Read
-*Video Games
-*Music
+<li>Play Soccer
+<li>Program
+<li>Read
+<li>Video Games
+<li>Music
 
 # Comandos Que Mas Uso
 | comando |descripcion                |
