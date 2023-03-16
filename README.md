@@ -7,12 +7,12 @@ I consider myself a person with very good values ​​such as respect, honesty,
 
 # Hobbies
 
-<ul>
-<li>Play Soccer
-<li>Program
-<li>Read
-<li>Video Games
-<li>Music
+
+*Play Soccer
+*Program
+*Read
+*Video Games
+*Music
 
 # Comandos Que Mas Uso
 | comando |descripcion                |
